@@ -30,6 +30,7 @@ The following products / tools are needed to contribute / fork.
 
 ## Authors
 * Michael Schnyder
+* Test
 
 ## License
 Licensed under the MIT License
